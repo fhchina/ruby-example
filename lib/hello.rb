@@ -1,5 +1,5 @@
 class Hello
   def greet
-    'world'
+    'hello world'
   end
 end
